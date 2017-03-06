@@ -27,7 +27,7 @@ purpose:
     url: 'http://pirati.cz'
     label: 'Hlavně běž volit! ...pokud nevíš, zkus Piráty.'
   - type: external
-    url: 'https://github.com/Troi/law'
+    url: 'https://github.com/VitJurasek/zakony'
     label: Návrhy "mých" zákonů
 url: 'https://vit-jurasek.cz'
 author:
