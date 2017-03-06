@@ -1,0 +1,36 @@
+color:
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+  brandStrength: 0.8902787314727902
+  lightness: 0.6431228874716908
+  saturation: 0.5575851248577237
+  rhythmicContrast: 0.18946859310381114
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Plavba v Pirátských vodách
+layout_spectrum: 0.6684926568996161
+typography_spectrum: 0.007421783171594143
+content: []
+title: Plavba Piráta
+description: Zápisky ze střetu s politikou
+purpose:
+  - type: external
+    url: 'http://pirati.cz'
+    label: 'Hlavně běž volit! ...pokud nevíš, zkus Piráty.'
+  - type: external
+    url: 'https://github.com/Troi/law'
+    label: Návrhy "mých" zákonů
+url: 'https://vit-jurasek.cz'
+author:
+  name: Vít Jurásek
+  email: vit@jurasek.email
+github: true
