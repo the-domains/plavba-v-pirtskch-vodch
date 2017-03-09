@@ -1,17 +1,17 @@
 ---
 inFeed: true
 description: 'Na FB jsem narazil na komentář, který vyzýval Piráty k přejmenování, protože'
-dateModified: '2017-03-09T11:49:33.137Z'
-datePublished: '2017-03-09T11:49:33.809Z'
+dateModified: '2017-03-09T11:49:34.844Z'
+datePublished: '2017-03-09T11:49:35.219Z'
 title: “Pirát” odrazuje voliče
 author: []
 publisher: {}
 via: {}
 isBasedOnUrl: >-
   https://www.facebook.com/mikfer/posts/10208998396616336?comment_id=10208998601221451
+sourcePath: _posts/2017-03-09-pirat-odrazuje-volice.md
 starred: false
 datePublishedOriginal: '2017-03-09T11:49:33.809Z'
-sourcePath: _posts/2017-03-09-pirat-odrazuje-volice.md
 _type: MediaObject
 
 ---
