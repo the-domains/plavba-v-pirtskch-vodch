@@ -58,18 +58,21 @@ app_links:
     type: googleplay
     id: com.ted.android
     name: TED
-title: 'Robb Willer: Jak spolu lépe mluvit o politice'
-datePublished: '2017-03-10T14:44:17.559Z'
-dateModified: '2017-03-10T14:44:16.822Z'
+isBasedOnUrl: >-
+  https://www.ted.com/talks/robb_willer_how_to_have_better_political_conversations?language=cs
+title: Zajímavé TEDy
+datePublished: '2017-03-10T14:45:28.045Z'
+dateModified: '2017-03-10T14:45:26.989Z'
 via: {}
-inFeed: false
+inFeed: true
 sourcePath: _posts/2017-03-10-robb-willer-jak-spolu-lepe-mluvit-o-politice.md
-hasPage: true
+hasPage: false
 starred: false
 datePublishedOriginal: '2017-03-10T14:43:07.397Z'
-url: robb-willer-jak-spolu-lepe-mluvit-o-politice/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+# Zajímavé TEDy
+
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fembed.ted.com%2Ftalks%2Flang%2Fcs%2Frobb_willer_how_to_have_better_political_conversations&amp;url=https%3A%2F%2Fwww.ted.com%2Ftalks%2Frobb_willer_how_to_have_better_political_conversations%3Flanguage%3Dcs&amp;image=https%3A%2F%2Fpe.tedcdn.com%2Fimages%2Fted%2F3aec6c81cc1e8895ed7f659cfb817ce541c714be_240x180.jpg%3Flang%3Dcs&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=ted" width="560" height="315" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
