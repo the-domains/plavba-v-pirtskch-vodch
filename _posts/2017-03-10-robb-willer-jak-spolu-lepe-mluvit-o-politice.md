@@ -58,16 +58,16 @@ app_links:
     type: googleplay
     id: com.ted.android
     name: TED
-isBasedOnUrl: >-
-  https://www.ted.com/talks/robb_willer_how_to_have_better_political_conversations?language=cs
 title: 'Robb Willer: Jak spolu lépe mluvit o politice'
-datePublished: '2017-03-10T14:43:07.397Z'
-dateModified: '2017-03-10T14:43:06.036Z'
-datePublishedOriginal: '2017-03-10T14:43:07.397Z'
+datePublished: '2017-03-10T14:44:17.559Z'
+dateModified: '2017-03-10T14:44:16.822Z'
 via: {}
-inFeed: true
-starred: false
+inFeed: false
 sourcePath: _posts/2017-03-10-robb-willer-jak-spolu-lepe-mluvit-o-politice.md
+hasPage: true
+starred: false
+datePublishedOriginal: '2017-03-10T14:43:07.397Z'
+url: robb-willer-jak-spolu-lepe-mluvit-o-politice/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
